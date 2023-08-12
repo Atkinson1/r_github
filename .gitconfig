@@ -1,0 +1,12 @@
+[user]
+	email = ryan.atkinson.k12@gmail.com
+	name = Ryan Atkinson
+[core]
+	longpaths = true
+	editor = \"C:\\Users\\ryan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
+	excludesfile = ryan.gitignore
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
