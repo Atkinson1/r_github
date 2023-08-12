@@ -5,6 +5,8 @@ C:/Users/ryan/.secrets
 .conda/
 .condarc
 .continuum/
+.gitconfig
+.gitignore
 .git-for-windows-updater
 .ipynb_checkpoints/
 .ipython/
