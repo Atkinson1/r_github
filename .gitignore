@@ -1,6 +1,4 @@
 C:/Users/ryan/.secrets
-.httr-oauth
-.DS_Store
 .bash_history
 .conda/
 .condarc
@@ -31,6 +29,7 @@ apachehttpd.exe
 Heaven/
 Jedi/
 Music/
+env
 NTUSER.DAT
 NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TM.blf
 NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000001.regtrans-ms
@@ -69,7 +68,6 @@ edb_pgjdbc.exe
 edb_psqlodbc.exe
 edb_psqlodbc.exe-20220104003358
 edb_xdb_7.exe
-env
 essential_math_data_science.ipynb
 ms_intro_to_python.py
 new_plot.png
@@ -84,3 +82,8 @@ python_virt_folder
 setting_up_virtual_script_pip_seaborn_dataframes.py
 virtual_environ_instructions.py
 workspace.code-workspace
+.Rproj.user
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
